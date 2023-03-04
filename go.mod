@@ -1,4 +1,4 @@
-module gossip-glomers
+module github.com/tikinang/gossip-glomers
 
 go 1.20
 
